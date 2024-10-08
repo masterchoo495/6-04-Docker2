@@ -216,7 +216,7 @@ networks:
 
 ### Ответ:
 
-![png](img2.png)
+![png](img/img2.png)
 
 ---
 
@@ -237,13 +237,13 @@ networks:
 
 ### Ответ:
 
-![png](img3.png)
+![png](img/img3.png)
 
-![png](img4.png)
+![png](img/img4.png)
 
-![png](img5.png)
+![png](img/img5.png)
 
-![png](img6.png)
+![png](img/img6.png)
 
 ---
 
@@ -257,7 +257,7 @@ networks:
 
 ### Ответ:
 
-![png](img7.png)
+![png](img/img7.png)
 
 ---
 
